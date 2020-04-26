@@ -1,3 +1,4 @@
-# portfolio_html_css_php_wordpress-theme-create
+# WordPressオリジナルテーマ作成
 
-## WordPressオリジナルテーマ作成
+##　特徴
+・シンプル
